@@ -1,2 +1,2 @@
 # Estoque-Cpp
-Controle de Estoque
+Controle de Estoque (em andamento)
